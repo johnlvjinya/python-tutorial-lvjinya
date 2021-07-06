@@ -1,2 +1,2 @@
 参考
-1
+https://flask-file-manage-1257726623.cos.ap-shanghai.myqcloud.com/lvjinya/p_env_install_python%E5%92%8Csublimetext3%E5%AE%89%E8%A3%85%E5%92%8C%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE-win10.zip
